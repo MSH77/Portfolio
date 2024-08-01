@@ -1,11 +1,11 @@
 # Portfolio
 
+Здесь собраны реализованные мной проекты
 
 <table style="border: 1px solid rgb(0, 0, 0);">
   <thead>
     <tr>
-      <th style="border: 1px solid rgb(0, 0, 0);">№</th>
-      <th style="border: 1px solid rgb(0, 0, 0);">Имя файла</th>
+      <th WIDTH=100 style="border: 1px solid rgb(0, 0, 0);">Имя файла</th>
       <th style="border: 1px solid rgb(0, 0, 0);">Наименование проекта</th>
       <th style="border: 1px solid rgb(0, 0, 0);">Описание</th>
       <th style="border: 1px solid rgb(0, 0, 0);">Навыки и инструменты</th>
@@ -13,9 +13,7 @@
   </thead>
   <tbody>
     <tr>
-      <td style="border: 1px solid rgb(0, 0, 0);">1
-      </td>
-      <td style="border: 1px solid rgb(0, 0, 0);"> Project 1 
+      <td style="border: 1px solid rgb(0, 0, 0);"> <a href="https://github.com/MSH77/Portfolio/tree/main/Project%201">Project 1</a>
       </td>
       <td style="border: 1px solid rgb(0, 0, 0);">Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов
       </td>
@@ -28,9 +26,7 @@
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid rgb(0, 0, 0);">2
-      </td>
-      <td style="border: 1px solid rgb(0, 0, 0);"> Project 2
+      <td style="border: 1px solid rgb(0, 0, 0);"> <a href="https://github.com/MSH77/Portfolio/tree/main/Project%202">Project 2</a>
       </td>
       <td style="border: 1px solid rgb(0, 0, 0);"> Исследование надежности заемщиков - анализ банковских данных
       </td>
@@ -40,9 +36,7 @@
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid rgb(0, 0, 0);"> 3
-      </td>
-      <td style="border: 1px solid rgb(0, 0, 0);"> Project 3
+      <td style="border: 1px solid rgb(0, 0, 0);"> <a href="https://github.com/MSH77/Portfolio/tree/main/Project%203">Project 3</a>
       </td>
       <td style="border: 1px solid rgb(0, 0, 0);"> Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости
       </td>
@@ -52,9 +46,7 @@
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid rgb(0, 0, 0);"> 4
-      </td>
-      <td style="border: 1px solid rgb(0, 0, 0);"> Project 4
+      <td style="border: 1px solid rgb(0, 0, 0);"> <a href="https://github.com/MSH77/Portfolio/tree/main/Project%204">Project 4</a>
       </td>
       <td style="border: 1px solid rgb(0, 0, 0);"> Исследование о рынке российского кинопроката
       </td>
@@ -65,9 +57,7 @@
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid rgb(0, 0, 0);"> 5
-      </td>
-      <td style="border: 1px solid rgb(0, 0, 0);"> Project 5
+      <td style="border: 1px solid rgb(0, 0, 0);"> <a href="https://github.com/MSH77/Portfolio/tree/main/Project%205">Project 5</a>
       </td>
       <td style="border: 1px solid rgb(0, 0, 0);"> Исследования рынка общепита в Москве для принятия решения об открытии нового заведения
       </td>
@@ -77,9 +67,7 @@
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid rgb(0, 0, 0);"> 6
-      </td>
-      <td style="border: 1px solid rgb(0, 0, 0);"> Project 6
+      <td style="border: 1px solid rgb(0, 0, 0);"> <a href="https://github.com/MSH77/Portfolio/tree/main/Project%206">Project 6</a>
       </td>
       <td style="border: 1px solid rgb(0, 0, 0);"> Анализ взаимодействия пользователей с карточками Дзена
       </td>
@@ -89,9 +77,7 @@
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid rgb(0, 0, 0);"> 7
-      </td>
-      <td style="border: 1px solid rgb(0, 0, 0);"> Project 7
+      <td style="border: 1px solid rgb(0, 0, 0);"> <a href="https://github.com/MSH77/Portfolio/tree/main/Project%207">Project 7</a>
       </td>
       <td style="border: 1px solid rgb(0, 0, 0);"> Исследование опроса клиентов телекомунникацонной компании
       </td>
@@ -101,9 +87,7 @@
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid rgb(0, 0, 0);"> 8
-      </td>
-      <td style="border: 1px solid rgb(0, 0, 0);"> Project 8
+      <td style="border: 1px solid rgb(0, 0, 0);"> <a href="https://github.com/MSH77/Portfolio/tree/main/Project%208">Project 8</a>
       </td>
       <td style="border: 1px solid rgb(0, 0, 0);"> Анализ убытков приложения ProcrastinatePRO+
       </td>
@@ -113,9 +97,7 @@
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid rgb(0, 0, 0);"> 9
-      </td>
-      <td style="border: 1px solid rgb(0, 0, 0);"> Project 9
+      <td style="border: 1px solid rgb(0, 0, 0);"> <a href="https://github.com/MSH77/Portfolio/tree/main/Project%209">Project 9</a>
       </td>
       <td style="border: 1px solid rgb(0, 0, 0);"> Исследование базы данных сервиса Stackoverflow
       </td>
@@ -125,9 +107,7 @@
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid rgb(0, 0, 0);"> 10
-      </td>
-      <td style="border: 1px solid rgb(0, 0, 0);"> Project 10
+      <td style="border: 1px solid rgb(0, 0, 0);"> <a href="https://github.com/MSH77/Portfolio/tree/main/Project%2010">Project 10</a>
       </td>
       <td style="border: 1px solid rgb(0, 0, 0);"> Определение выгодного тарифа для телеком компании
       </td>
@@ -139,9 +119,7 @@
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid rgb(0, 0, 0);"> 11
-      </td>
-      <td style="border: 1px solid rgb(0, 0, 0);"> Project 11
+      <td style="border: 1px solid rgb(0, 0, 0);"> <a href="https://github.com/MSH77/Portfolio/tree/main/Project%2011">Project 11</a>
       </td>
       <td style="border: 1px solid rgb(0, 0, 0);"> Проверка гипотез по увеличению выручки в интернет-магазине — оценить результаты A/B теста
       </td>
@@ -151,9 +129,7 @@
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid rgb(0, 0, 0);"> 12
-      </td>
-      <td style="border: 1px solid rgb(0, 0, 0);"> Project 12
+      <td style="border: 1px solid rgb(0, 0, 0);"> <a href="https://github.com/MSH77/Portfolio/tree/main/Project%2012">Project 12</a>
       </td>
       <td style="border: 1px solid rgb(0, 0, 0);"> Прогнозирование вероятности оттока пользователей для фитнес-центров
       </td>
@@ -163,9 +139,7 @@
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid rgb(0, 0, 0);"> 13
-      </td>
-      <td style="border: 1px solid rgb(0, 0, 0);"> Project 13
+      <td style="border: 1px solid rgb(0, 0, 0);"> <a href="https://github.com/MSH77/Portfolio/tree/main/Project%2013">Project 13</a>
       </td>
       <td style="border: 1px solid rgb(0, 0, 0);"> Дополнительная практика
       </td>
@@ -175,9 +149,7 @@
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid rgb(0, 0, 0);"> 14
-      </td>
-      <td style="border: 1px solid rgb(0, 0, 0);"> Project 14
+      <td style="border: 1px solid rgb(0, 0, 0);"> <a href="https://github.com/MSH77/Portfolio/tree/main/Project%2014">Project 14</a>
       </td>
       <td style="border: 1px solid rgb(0, 0, 0);"> Анализ оттока клиентов банка «Метанпром»
       </td>
@@ -193,9 +165,7 @@
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid rgb(0, 0, 0);"> 15
-      </td>
-      <td style="border: 1px solid rgb(0, 0, 0);"> Project 15
+      <td style="border: 1px solid rgb(0, 0, 0);"> <a href="https://github.com/MSH77/Portfolio/tree/main/Project%2015">Project 15</a>
       </td>
       <td style="border: 1px solid rgb(0, 0, 0);"> Оценка корректности проведения A/B-теста
       </td>
@@ -211,9 +181,7 @@
       </td>
     </tr>
     <tr>
-      <td style="border: 1px solid rgb(0, 0, 0);"> 16
-      </td>
-      <td style="border: 1px solid rgb(0, 0, 0);"> Project 16
+      <td style="border: 1px solid rgb(0, 0, 0);"> <a href="https://github.com/MSH77/Portfolio/tree/main/Project%2016">Project 16</a>
       </td>
       <td style="border: 1px solid rgb(0, 0, 0);"> Анализ базы данных SQL
       </td>
